@@ -1,1 +1,1 @@
-# Plotted Data concerning job plattforms
+# Plotted data concerning job plattforms
