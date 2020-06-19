@@ -20,24 +20,25 @@ myTheme <- function () {
     theme(axis.title = element_text())
 }
 
-jobsites_old_DE %>%
+jobsites_old_DE %>% 
   mutate(monat = parse_date(monat, format = '%Y-%m')) %>% 
-  gather('key', 'value', xing, bfa, stepstone, linkedIn) %>% 
+  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
   ggplot(aes(monat, value, color = key, group = key)) +
   geom_line(size = 1) +
   scale_color_discrete(
     name = 'Jobportal',
     limits = c(
+      'indeed',
       'xing',
       'bfa',
-      'stepstone',
+      'stepStone',
       'linkedIn'
     )
   ) + 
   myTheme() +
   labs(
     title = 'Vergleich der größten Jobportale in Deutschland',
-    subtitle = 'Angaben sind relativ zum maximalen aufgezeichneten Wert angegeben',
+    subtitle = 'Werte sind relativ zum maximalen aufgezeichneten Wert angegeben',
     caption = 'Quelle: Google Analytics',
     x = 'Jahr'
   ) + 
@@ -49,15 +50,17 @@ jobsites_old_DE %>%
 
 jobsites_old_GL %>% 
   mutate(monat = parse_date(monat, format = '%Y-%m')) %>% 
-  gather('key', 'value', xing, indeed, linkedIn) %>% 
+  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
   ggplot(aes(monat, value, color = key, group = key)) +
   geom_line(size = 1) +
   scale_color_discrete(
     name = 'Jobportal',
     limits = c(
+      'indeed',
       'xing',
-      'linkedIn',
-      'indeed'
+      'bfa',
+      'stepStone',
+      'linkedIn'
     )
   ) + 
   myTheme() +
@@ -77,15 +80,16 @@ jobsites_2004_DE %>%
   mutate_all(~replace(., is.na(.), 0)) %>% 
   mutate(year = '2004') %>% 
   rbind(jobsites_2019_DE %>% mutate(year = '2019')) %>% 
-  gather('key', 'value', xing, bfa, stepstone, linkedIn) %>% 
+  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
   ggplot(aes(region, value, fill = key)) +
   geom_col() +
   scale_fill_discrete(
     name = 'Jobportal',
     limits = c(
+      'indeed',
       'xing',
       'bfa',
-      'stepstone',
+      'stepStone',
       'linkedIn'
     )
   ) + 
