@@ -75,6 +75,8 @@ Fungiert als Tool um Herausforderungen im Recrouting zu bewältigen. Win-Win-Sit
 - Telekommunikation (1837)
 - Versicherungen (1690)
 
+Quelle: https://www.xing.com/companies/industries
+
 ### Zusammengefasste Branchenverteilung
 
 - 15% Dienstleistung
