@@ -29,12 +29,11 @@ Fungiert als Tool um Herausforderungen im Recrouting zu bewältigen. Win-Win-Sit
 - Stepstone
 
 ## Plots
+![Zeitachse DE](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/old_DE.jpeg?raw=true)
 
-![Zeitachse DE](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/old_DE.jpeg?raw=true)
+![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/old_GL.jpeg?raw=true)
 
-![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/old_GL.jpeg?raw=true)
-
-![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/2004_2019_DE.jpeg?raw=true)
+![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/2004_2019_DE.jpeg?raw=true)
 
 ## Auf welche Herausforderungen antworten diese Tools?
 
