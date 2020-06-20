@@ -86,11 +86,11 @@ jobsites_2004_DE %>%
   scale_fill_discrete(
     name = 'Jobportal',
     limits = c(
-      'indeed',
       'xing',
-      'bfa',
       'stepStone',
-      'linkedIn'
+      'linkedIn',
+      'indeed',
+      'bfa'
     )
   ) + 
   myTheme() +
