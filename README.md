@@ -5,10 +5,9 @@
 - Benutzen die Branchen verschiedene Kanäle?
 
 ## Wie gehen Recruiter vor?
+Quelle: https://bewerbung.com/faq/wie-gehen-recruiter-vor
 
 Bei einem klassischen Bewerbungsprozess schauen sich Personaler als erstes Ihre eingereichten Unterlagen an und prüfen inwiefern diese Informationen mit der ausgeschriebenen Stelle zusammenpassen. In einigen Bereichen ist es auch üblich, dass Unternehmen selbst nach geeigneten Kandiaten mittels sogenannter Headhunter oder Personalvermittlungen suchen. Um von möglichen Unternehmen aktiv angesprochen werden zu können, ist es wichtig, dass Sie die beruflichen Profile von Ihnen, wie z.B. im Karrierenetzwerk XING, aktuell halten und Ihre Berufserfahrung und Fähigkeiten ergänzen.
-
-Quelle: https://bewerbung.com/faq/wie-gehen-recruiter-vor
 
 ## Trends 2019
 
@@ -21,6 +20,7 @@ Gute Bewerber werden immer rarer. Bereits im Jahr 2017 stellte die Studie ICR Re
 Damit stellt sich die Frage: Was kannst du 2019 in Sachen Recruiting besser machen? Was ist dringend notwendig, womit lockst du vielversprechende Bewerber an – und wo findest du diese überhaupt? Denn auch das hat sich geändert: Um die besten Köpfe ausfindig zu machen, stehen heute zahlreiche vielversprechende Kanäle und Technologien zur Verfügung. Und wenn du nicht auf der Strecke bleiben möchtest, solltest du sie kennen.
 
 ### Die Top-Themen der Personaler
+Quelle: https://engage.kununu.com/de/blog/recruiting-trends-2019
 
 Mit welchen Themen beschäftigen sich Recruiter heute? Ein Blick darauf lässt bereits ahnen, was 2019 wichtig wird. Die ICR-Studie fasst die sechs Top-Themen der Personaler zusammen:
 
@@ -65,7 +65,176 @@ Seit Mai 2018 gelten neue Datenschutzbestimmungen. Und die werden auch im Recrui
 
 Die Studie ICR Recruiting Trends fasst zusammen, warum du dich mit Themen wie diesen beschäftigen solltest: Rund 95 Prozent der befragten Unternehmen haben Schwierigkeiten bei der Stellenbesetzung – und die Problematik nimmt zu. Vielversprechende und zeitsparende Methoden werden bislang nur von wenigen Unternehmen genutzt. Wer jedoch auf ausgetretenen Pfade setzt, wird den Anschluss verpassen – und die besten Bewerber an die Konkurrenz verlieren, die neue Recruiting-Methoden nutzt.
 
-Quelle: https://engage.kununu.com/de/blog/recruiting-trends-2019
+## Die 8 besten Methoden zur Personalrekrutierung
+https://blog.recruitee.com/de/personalrekrutierung
+
+Der Arbeitsmarkt ist im Wandel und damit auch die Personalrekrutierung. Bis vor ein paar Jahren konnten Unternehmen aus einer Vielzahl von Bewerbungen den/die beste/n Kandidaten/in auswählen. Das war sehr komfortabel für die Arbeitgeber.
+
+Heute habe viele Firmen Probleme überhaupt qualifizierte und verfügbare Bewerber/innen aufzuspüren. Der Arbeitsmarkt hat sich zugunsten der Arbeitnehmer verschoben und gute Fachkräfte können wählerisch sein, denn sie haben oft mehrere Angebote.
+
+All dies verändert, wie Unternehmen heute ihre Rekrutierung von Personal angehen müssen. Damit du diesen neuen Anforderungen gewachsen sein kannst, haben wir untersucht, was zur Personalbeschaffung gehört und wie Personalmarketing dabei hilft. Außerdem zeigen wir dir die acht besten Methoden zur Personalrekrutierung.
+
+### Was gehört zur Personalbeschaffung
+
+Personalrekrutierung, auch Personalbeschaffung genannt, bezeichnet den Prozess neue Mitarbeiter/innen zu finden und einzustellen. Das klingt erstmal einfach. Allerdings sollen die neuen Angestellten natürlich auch alle fachlichen Anforderungen erfüllen, die nötigen Qualifikationen mitbringen, die richtigen Soft Skills haben, und am besten auch noch in die Unternehmenskultur passen.
+
+Der Prozess zur Rekrutierung von Personal lässt sich in fünf einfache Schritte unterteilen:
+
+### Schritt 1: Bedarfsermittlung
+
+Zunächst einmal muss eine freie Stelle im Unternehmen zu besetzen sein. Diese kann neu geschaffen werden oder eine bestehende Stelle ist durch Kündigung oder Aufstieg des/der jetzigen Mitarbeiters/in frei geworden. Meistens informiert ein Abteilungsleiter oder Manager die Personalabteilung darüber, die daraufhin den Rekrutierungsprozess in Gang setzt.
+
+### Schritt 2: Personalfindung
+
+Nun erstellt die Personalabteilung zusammen mit dem/der Vorgesetzten eine detaillierte Stellenanzeige, die alle Aktivitäten und Aufgaben enthält sowie erforderliche Erfahrung und Qualifikationen definiert. Damit wird eine entscheidende Frage beantwortet: Wen suchst du eigentlich?
+
+Darauf basierend kannst du die besten Methoden für die Personalfindung auswählen. Oft beginnt die Suche erst einmal im eigenen Unternehmen. Falls sich dort kein/e geeignete/r Kandidat/in findet, wird auf externe Kanäle, wie zum Beispiel Jobportale, zurückgegriffen.
+
+### Schritt 3: Auswahl
+
+Die ersten Bewerbungsunterlagen flattern ins Haus (oder eher ins E-Mail-Postfach) und du lädst die vielversprechendsten Kandidaten/innen zu einem Vorstellungsgespräch ein. Am besten führst du strukturierte Interviews durch, damit du sicher sein kannst, dass du am Ende den/die richtige/n Bewerber/in auswählst.
+
+### Schritt 4: Einstellung
+
+Der/die neue Mitarbeiter/in unterzeichnet seinen/ihren Arbeitsvertrag und jetzt heißt es den Arbeitsplatz vorzubereiten. Dazu gehört in der Regel einen Laptop oder PC zu beschaffen, die Zugänge zu den Firmensystemen und die neue E-Mail-Adresse anzulegen, und noch einiges mehr. Auch die Einführungsphase des/der neuen Mitarbeiters/in will gut geplant sein.
+
+### Schritt 5: Einführung
+
+Dieser Schritt ist enorm wichtig, denn schließlich soll sich der/die neue Angestellte ab dem ersten Arbeitstag im Unternehmen wohlfühlen. Mitarbeiter/innen die einen gut durchdachten Onboarding-Prozess durchlaufen haben, sind in der Regel schneller mit ihrem neuen Arbeitsalltag vertraut, besser im Team integriert und können leichter die ersten Ergebnisse liefern.
+
+## Warum Personalmarketing heute so wichtig ist
+
+Effektives Personalmarketing kann deine Personalrekrutierung deutlich vereinfachen. Wie das geht? Beim Personalmarketing geht es darum die Attraktivität deines Unternehmens als Arbeitgeber zu steigern und das sowohl extern als auch intern
+
+Das Hauptziel des externen Personalmarketings ist, deine Arbeitgebermarke positiv darzustellen und die Bekanntheit deines Unternehmens zu erhöhen. Wusstest du schon, dass es mit Recruitee ganz einfach ist deine Employer Brand aufzubauen? Damit soll ein regelmäßiger Eingang von guten Bewerbern/innen gesichert und auf lange Sicht die Kosten des Rekrutierungsprozesses gesenkt werden.
+
+Beim internen Personalmarketing geht es darum die eigenen Mitarbeiter langfristig an das Unternehmen zu binden und Loyalität aufzubauen. Damit soll die Fluktuation so niedrig wie möglich gehalten werden. Dies erreichst du mit Maßnahmen, die die Zufriedenheit der Mitarbeiter im Unternehmen fördern, wie zum Beispiel Weiterbildungsmöglichkeiten und Teambuilding.
+
+Die Prämisse ist, dass bekannte Unternehmen, die sich gut um ihre Mitarbeiter kümmern, einfacher qualifizierte Bewerber anziehen.
+
+### Top 8
+
+Heute kannst du dich leider nicht mehr auf eine einzige Quelle für deine Personalbeschaffung verlassen. Es heißt mehrere Kanäle auszuprobieren und für jede Stelle die passenden zum Einsatz zu bringen. Wir stellen dir die acht besten Methoden für die Personalrekrutierung mit ihren Vor- und Nachteilen vor.
+
+#### 1. Interne Stellenausschreibungen
+
+Hier fängt die Personalsuche meistens an – mit der Veröffentlichung einer Stellenanzeige im firmeneigenen Intranet oder durch interne E-Mails. Jede/r Mitarbeiter/in sollte die Möglichkeit bekommen, sich auf die freie Stelle zu bewerben.
+
+##### Vorteile:
+
+- Mitarbeiter/innen schätzen die Möglichkeit im eigenen Unternehmen aufsteigen zu können.
+- Der/die Kandidat/in kennt schon die internen Abläufe sowie die Unternehmenskultur und kann sich so viel schneller in eine neue Stelle integrieren.
+- Die interne Ausschreibung ist mit geringen oder gar keinen Kosten verbunden.
+
+##### Nachteile:
+
+- Der/die Mitarbeiter/in, der/die neue Stelle übernimmt, hinterlässt wiederum eine freie Stelle, die nun besetzt werden muss.
+- Die Bewerberanzahl kann, je nach Unternehmensgröße, sehr gering sein.
+
+#### 2. Die eigene Karriereseite
+
+Die Stellenausschreibung auf der Karriereseite der Unternehmenswebsite zu veröffentlichen gehört heute zum Standard. Seriöse Bewerber werden sich immer dort ein erstes Bild vom Unternehmen machen wollen.
+
+##### Vorteile:
+
+- Du hast die Möglichkeit dein Unternehmen richtig vorzustellen und kannst, zum Beispiel, Werte und Leistungen für Arbeitnehmer hervorheben.
+- Auch diese Ausschreibung ist mit geringen oder keinen Kosten verbunden.
+
+##### Nachteile:
+
+- Die eigene Karriereseite hat oft nicht genug Reichweite um aktiv Bewerber/innen anzuziehen. Aber doch sollte dies nicht die einzige Methode bleiben, die zum Einsatz kommt.
+
+#### 3. Jobportale
+
+Laut einer Studie rekrutieren 92 % aller Unternehmen über Jobportale im Internet. Diese sind damit der Haupt-Recruiting-Kanal. Wir haben für dich die 9 besten Jobbörsen für kostenlose Stellenanzeigen zusammengestellt.
+
+##### Vorteile:
+
+- Jobportale haben das Potenzial eine hohe Anzahl an Bewerber/innen zu erreichen.
+- Die Benutzung ist einfach und der Prozess kann automatisiert werden.
+- Es gibt fachspezifische Jobbörsen, auf denen du nach Spezialisten und Spezialistinnen suchen kannst.
+
+#### Nachteile:
+
+- Dein Unternehmen muss sich als Arbeitgebermarke neben Mitbewerbern behaupten können.
+- Wenn kostenlose Stellenanzeigen in Jobbörsen keine geeigneten Kandidaten/innen hervorbringen, dann können die kostenpflichtigen Portale schnell ins Geld gehen.
+
+#### 4. Personalagenturen und Headhunter
+
+Diese sind oft ein letzter Ausweg wenn andere Methoden gescheitert sind oder besonders wichtige Stellen zu besetzen sind. Die Vor- und Nachteile sollten hier vorsichtig abgewogen werden.
+
+##### Vorteile:
+
+- Die Personalrekrutierung wird dir fast komplett abgenommen. Du bekommst direkt eine Vorauswahl von qualifizierten und verfügbaren Kandidaten und Kandidatinnen.
+
+##### Nachteile:
+
+- Jedoch ist es eine teure Methode und lohnt sich oft nur für entscheidende Positionen im mittleren und oberen Management, sowie für Spezialisten und Spezialistinnen.
+
+#### 5. Social Media Recruiting
+
+Soziales Recruiting wird immer beliebter, denn dein/e Traumkandidat/in verbringt höchstwahrscheinlich sowie schon einige Zeit täglich in den sozialen Medien. LinkedIn und Xing sind die wichtigsten professionellen Netzwerke, an denen kein Unternehmen mehr vorbeikommt.
+
+##### Vorteile:
+
+- Soziale Medien haben eine große Reichweite und du kannst auch passive Kandidaten und Kandidatinnen kontaktieren.
+- Deine Stellenanzeige kannst du hier mit deinem Netzwerk teilen.
+- Du kannst zwanglos einen ersten Kontakt mit geeigneten Kandidaten/innen herstellen.
+- Dein Unternehmen kann durch einen professionellen Auftritt seine Arbeitgebermarke gezielt stärken und hervorheben.
+
+##### Nachteile:
+
+- Es ist ein zeitaufwendiger Prozess, da du die Kandidaten/innen meist einzeln ansprichst.
+- Stellenanzeigen direkt bei Xing oder LinkedIn zu veröffentlichen ist kostenpflichtig.
+
+#### 6. Active Sourcing
+
+Die Direktansprache von Kandidaten/innen ist eine der schwierigsten Recruiting Methoden, denn oft weißt du nicht, ob derjenige/diejenige überhaupt interessiert ist. Vielleicht hast du von einem/einer geeigneten Kandidaten/in durch eine Empfehlung oder Referenz gehört. Dennoch lohnt es sich per E-Mail Kontakt aufzunehmen, denn auch Fachkräfte, die nicht aktiv auf der Jobsuche sind, können an neuen Möglichkeiten interessiert sein.
+
+##### Vorteile:
+
+Passive Kandidaten/innen sind oft am besten qualifiziert und gefragt. Es könnte die ideale Besetzung für deine freie Stelle sein.
+
+##### Nachteile:
+
+- Active Sourcing ist wettbewerbsrechtlich geregelt. Achte darauf, dass du KonkurrentenMitbewerber nicht gezielt behinderst und die Ansprache nicht als unzumutbare Belästigung wahrgenommen wird.
+- Es ist zeitaufwendig, da du alle Kandidaten/innen einzeln ansprichst und dich vorher über sie informieren solltest.
+
+#### 7. Eigene Veranstaltungen
+
+Mit Veranstaltungen kannst du potenziellen neuen Mitarbeiter/innen die Chance geben, dein Unternehmen unverbindlich kennenzulernen. Wie wäre es mit einem Tag der offenen Tür, einem Karriere-Abend, oder Breakfast-Meeting? Wenn im Vordergrund ein spannender Fachvortrag oder eine Expertenrunde steht, kann das die Topleute aus der Branche anziehen, die du sonst nur selten zu Gesicht bekommst.
+
+##### Vorteile:
+
+- Dies ist die perfekte Gelegenheit deine Arbeitgebermarke zu stärken und dich gegen Konkurrenten zu behaupten.
+- Auch bestehende Mitarbeiter/innen schätzen die Möglichkeit Networking zu betreiben.
+- Bleibe mit interessierten Gästen in Kontakt und vereinbare eventuell ein weiterführendes Treffen.
+
+##### Nachteile:
+
+- Es gibt natürlich keine Garantie, das sich unter den Gästen ein neue/r Mitarbeiter/in findet.
+- Die Planung und Durchführung kann mitunter zeit- und kostenaufwendig sein.
+
+#### 8. Jobmessen
+
+Diese finden über das Jahr verteilt regional, sowie branchenübergreifend und -spezifisch statt. Wenn dein Unternehmen nicht in einen eigenen Stand investieren will, dann kannst du dich auch so unters Volk mischen und Gespräche beginnen. Oft werden auch Redner für Vorträge gesucht, für die du dich bewerben könntest, um so mehr Aufmerksamkeit für dein Unternehmen zu erlangen.
+
+##### Vorteile:
+
+- Jobmessen werden in der Regel von aktiv Jobsuchenden besucht, sodass kein Zweifel an deren Motivation besteht.
+- Zusätzlich kannst du mit interessierten Fachkräften ins Gespräch kommen und schon abtasten, ob sie ins Unternehmen passen würden.
+- Auch dies ist eine gute Gelegenheit als Arbeitgebermarke präsent zu sein.
+
+##### Nachteile:
+
+- Ein Stand auf einer Jobmesse kann sehr teuer sein.
+- Trotzdem gibt es auch hier keine Garantie, dass ein geeignete/r Kandidat/in dabei ist.
+
+### Welche Methode zur Personalrekrutierung ist für dich die richtige
+
+Hier gibt es kein generelles richtig oder falsch. Es kommt immer auf die zu besetzende Stelle und dein Unternehmen an. Es lohnt sich hin und wieder eine neue Methode auszuprobieren um den Kreis der Kandidaten/innen zu erweitern. Manche Methoden, wie Jobportale, eignen sich besonders, wenn eine Stelle kurzfristig zu besetzen ist. Außerdem bauen auch andere Methoden wie eigene Veranstaltungen und Jobmessen hingegen langfristig deine Unternehmensmarke und deinen Talent Pool aus.
+
+Nichtsdestotrotz ist die Personalbeschaffung ein Dauerthema, das du niemals vernachlässigen solltest, auch wenn gerade kein akuter Bedarf besteht. Aber wenn du einen gut gefüllte Kontaktliste von Fachkräften hast, auf die du zurückgreifen kannst, ist es umso leichter eine freie Stelle in Zukunft zu besetzen.
 
 ## Die Rolle von Social Media im Recouting
 
@@ -77,6 +246,7 @@ Fungiert als Tool um Herausforderungen im Recrouting zu bewältigen. Win-Win-Sit
 - Social Media
 
 ## Jobbörsen
+Quelle: https://www.absolventa.de/business/hr-blog/jobboersen-vergleich-uebersicht-alle-jobboersen
 
 ### Das müssen Sie wissen.
 
@@ -155,8 +325,6 @@ Darüber hinaus gibt es verschiedene Jobbörsen, die sich auf bestimmte Stellena
 
 Manche Jobbörsen bieten Filtermöglichkeiten nach der Region, nur inländische Angebote, oder den gesamten deutschen Sprachraum an. Internationale Jobbörsen listen Jobangebote weltweit. Bei vielen Jobbörsen kann eine Bewerbung zudem direkt abgeschickt werden. Das macht es leichter, sich für einen Job zu bewerben und das Unternehmen freut sich über einen direkten Bewerbungseingang.
 
-Quelle: https://www.absolventa.de/business/hr-blog/jobboersen-vergleich-uebersicht-alle-jobboersen
-
 ## Statistik zu Interesse im Bezug auf folgende Kanäle
 
 - LinkedIn
@@ -186,6 +354,7 @@ Quelle: https://www.absolventa.de/business/hr-blog/jobboersen-vergleich-uebersic
 - Gesundheitsmanagement
 
 ## Xing
+Quelle: https://www.xing.com/companies/industries
 
 ### Branchen nach Größe
 
@@ -213,9 +382,8 @@ Quelle: https://www.absolventa.de/business/hr-blog/jobboersen-vergleich-uebersic
 - Telekommunikation (1837)
 - Versicherungen (1690)
 
-Quelle: https://www.xing.com/companies/industries
-
 ### Zusammengefasste Branchenverteilung
+Quelle: https://werben.xing.com/daten-und-fakten
 
 - 15% Dienstleistung
 - 18% Industrie
@@ -303,9 +471,8 @@ Page Impressions in der Schweiz
 - 10% über 50
 - 58% nicht definiert
 
-Quelle: https://werben.xing.com/daten-und-fakten
-
 ## LinkedIn
+Quelle: https://kinsta.com/de/blog/linkedin-statistiken
 
 Facebook mag heute die größte soziale Netzwerkseite der Welt sein, aber LinkedIn begleitet seine Nutzer schon seit längerer Zeit. Und was noch wichtiger ist, für diejenigen, die sich vernetzen und Geschäftsbeziehungen aufbauen möchten, kennen die Benutzer von LinkedIn die Plattform als „professionelle Social-Networking-Seite“.
 
@@ -342,5 +509,3 @@ Insgesamt 39% der LinkedIn-Nutzer zahlen für LinkedIn Premium, das vier Preisst
 - Premium Business: $59,99/Monat
 - Sales Navigator Pro: $79,99/Monat
 - Recruiter Lite (Hiring): §119,95/Monat
-
-Quelle: https://kinsta.com/de/blog/linkedin-statistiken
