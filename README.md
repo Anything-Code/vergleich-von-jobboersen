@@ -10,6 +10,7 @@ Quelle: https://bewerbung.com/faq/wie-gehen-recruiter-vor
 Bei einem klassischen Bewerbungsprozess schauen sich Personaler als erstes Ihre eingereichten Unterlagen an und prüfen inwiefern diese Informationen mit der ausgeschriebenen Stelle zusammenpassen. In einigen Bereichen ist es auch üblich, dass Unternehmen selbst nach geeigneten Kandiaten mittels sogenannter Headhunter oder Personalvermittlungen suchen. Um von möglichen Unternehmen aktiv angesprochen werden zu können, ist es wichtig, dass Sie die beruflichen Profile von Ihnen, wie z.B. im Karrierenetzwerk XING, aktuell halten und Ihre Berufserfahrung und Fähigkeiten ergänzen.
 
 ## Trends 2019
+Quelle: https://engage.kununu.com/de/blog/recruiting-trends-2019
 
 Stellenanzeige schalten und schon trudeln bergeweise qualifizierte Bewerbungen ein – so mancher Recruiter kann sich an diese goldenen Zeiten womöglich noch erinnern. Doch sie sind vorbei. Das Gegenteil ist heute der Fall: Nicht mehr die Unternehmen suchen sich die Bewerber aus, sondern begehrte Fachkräfte schauen, wer am besten zu ihnen und ihren Ansprüchen passt. Für Recruiter bedeutet das, neue Wege einzuschlagen. Wir stellen dir die spannendsten Recruiting-Trends 2019 vor.
 
@@ -20,7 +21,6 @@ Gute Bewerber werden immer rarer. Bereits im Jahr 2017 stellte die Studie ICR Re
 Damit stellt sich die Frage: Was kannst du 2019 in Sachen Recruiting besser machen? Was ist dringend notwendig, womit lockst du vielversprechende Bewerber an – und wo findest du diese überhaupt? Denn auch das hat sich geändert: Um die besten Köpfe ausfindig zu machen, stehen heute zahlreiche vielversprechende Kanäle und Technologien zur Verfügung. Und wenn du nicht auf der Strecke bleiben möchtest, solltest du sie kennen.
 
 ### Die Top-Themen der Personaler
-Quelle: https://engage.kununu.com/de/blog/recruiting-trends-2019
 
 Mit welchen Themen beschäftigen sich Recruiter heute? Ein Blick darauf lässt bereits ahnen, was 2019 wichtig wird. Die ICR-Studie fasst die sechs Top-Themen der Personaler zusammen:
 
