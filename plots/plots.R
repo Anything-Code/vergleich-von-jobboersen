@@ -22,24 +22,26 @@ myTheme <- function () {
 
 jobsites_old_DE %>% 
   mutate(monat = parse_date(monat, format = '%Y-%m')) %>% 
-  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
+  mutate(`Bundesagentur für Arbeit` = bfa) %>% 
+  select(-bfa) %>% 
+  gather('key', 'value', indeed, xing, `Bundesagentur für Arbeit`, stepStone, linkedIn) %>% 
   ggplot(aes(monat, value, color = key, group = key)) +
   geom_line(size = 1) +
   scale_color_discrete(
     name = 'Jobportal',
     limits = c(
-      'indeed',
       'xing',
-      'bfa',
       'stepStone',
-      'linkedIn'
+      'linkedIn',
+      'indeed',
+      'Bundesagentur für Arbeit'
     )
   ) + 
   myTheme() +
   labs(
-    title = 'Vergleich der größten Jobportale in Deutschland',
+    title = 'Vergleich der zu betrachtenden Recruiting-Plattformen in Deutschland',
     subtitle = 'Werte sind relativ zum maximalen aufgezeichneten Wert angegeben',
-    caption = 'Quelle: Google Analytics',
+    caption = 'Quelle: Google Trends',
     x = 'Jahr'
   ) + 
   theme(
@@ -50,24 +52,26 @@ jobsites_old_DE %>%
 
 jobsites_old_GL %>% 
   mutate(monat = parse_date(monat, format = '%Y-%m')) %>% 
-  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
+  mutate(`Bundesagentur für Arbeit` = bfa) %>% 
+  select(-bfa) %>% 
+  gather('key', 'value', indeed, xing, `Bundesagentur für Arbeit`, stepStone, linkedIn) %>% 
   ggplot(aes(monat, value, color = key, group = key)) +
   geom_line(size = 1) +
   scale_color_discrete(
     name = 'Jobportal',
     limits = c(
-      'indeed',
       'xing',
-      'bfa',
       'stepStone',
-      'linkedIn'
+      'linkedIn',
+      'indeed',
+      'Bundesagentur für Arbeit'
     )
   ) + 
   myTheme() +
   labs(
-    title = 'Vergleich der größten Jobportale Weltweit',
+    title = 'Vergleich der zu betrachtenden Recruiting-Plattformen weltweit',
     subtitle = 'Angaben sind relativ zum maximalen aufgezeichneten Wert angegeben',
-    caption = 'Quelle: Google Analytics',
+    caption = 'Quelle: Google Trends',
     x = 'Jahr'
   ) + 
   theme(
@@ -80,7 +84,9 @@ jobsites_2004_DE %>%
   mutate_all(~replace(., is.na(.), 0)) %>% 
   mutate(year = '2004') %>% 
   rbind(jobsites_2019_DE %>% mutate(year = '2019')) %>% 
-  gather('key', 'value', indeed, xing, bfa, stepStone, linkedIn) %>% 
+  mutate(`Bundesagentur für Arbeit` = bfa) %>% 
+  select(-bfa) %>% 
+  gather('key', 'value', indeed, xing, `Bundesagentur für Arbeit`, stepStone, linkedIn) %>% 
   ggplot(aes(region, value, fill = key)) +
   geom_col() +
   scale_fill_discrete(
@@ -90,16 +96,16 @@ jobsites_2004_DE %>%
       'stepStone',
       'linkedIn',
       'indeed',
-      'bfa'
+      'Bundesagentur für Arbeit'
     )
   ) + 
   myTheme() +
   facet_wrap(~year) +
   coord_flip() +
   labs(
-    title = 'Vergleich zwischen 2004 und 2019',
-    subtitle = ' bezogen auf Google Suchen nach Jobportalen in Deutschland',
-    caption = 'Quelle: Google Analytics',
+    title = 'Vergleich zu betrachtenden Recruiting-Plattformen im Jahre 2004 und 2019',
+    subtitle = ' bezogen auf Google Suchen in Deutschland',
+    caption = 'Quelle: Google Trends',
     x = 'Bundesland'
   ) + 
   theme(
