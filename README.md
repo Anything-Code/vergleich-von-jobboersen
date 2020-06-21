@@ -112,7 +112,7 @@ Beim internen Personalmarketing geht es darum die eigenen Mitarbeiter langfristi
 
 Die Prämisse ist, dass bekannte Unternehmen, die sich gut um ihre Mitarbeiter kümmern, einfacher qualifizierte Bewerber anziehen.
 
-### Top 8 Mthoden
+### Top 8 Methoden
 
 Heute kannst du dich leider nicht mehr auf eine einzige Quelle für deine Personalbeschaffung verlassen. Es heißt mehrere Kanäle auszuprobieren und für jede Stelle die passenden zum Einsatz zu bringen. Wir stellen dir die acht besten Methoden für die Personalrekrutierung mit ihren Vor- und Nachteilen vor.
 
