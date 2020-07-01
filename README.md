@@ -335,11 +335,11 @@ Manche Jobbörsen bieten Filtermöglichkeiten nach der Region, nur inländische 
 
 ### Plots
 
-![Zeitachse DE](./plots/old_DE.jpeg?raw=true)
+![Zeitachse DE](./plots/old_DE.jpeg)
 
-![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/old_GL.jpeg?raw=true)
+![Zeitachse Global](./plots/old_GL.jpeg)
 
-![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/2004_2019_DE.jpeg?raw=true)
+![Zeitachse Global](./plots/2004_2019_DE.jpeg)
 
 ## Auf welche Herausforderungen antworten diese Tools?
 
