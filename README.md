@@ -335,7 +335,7 @@ Manche Jobbörsen bieten Filtermöglichkeiten nach der Region, nur inländische 
 
 ### Plots
 
-![Zeitachse DE](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/old_DE.jpeg?raw=true)
+![Zeitachse DE](./plots/old_DE.jpeg?raw=true)
 
 ![Zeitachse Global](https://github.com/Anything-Code/Comparison-between-job-plattforms/blob/master/plots/old_GL.jpeg?raw=true)
 
